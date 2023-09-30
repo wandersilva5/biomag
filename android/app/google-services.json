@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "473807984073",
+    "project_id": "biomag-e0b04",
+    "storage_bucket": "biomag-e0b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473807984073:android:566ee718508786a14fc418",
+        "android_client_info": {
+          "package_name": "com.tallsolutions.biomag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473807984073-rfkrq2344716fvjtu7i2brffds75rv45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tallsolutions.biomag",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "473807984073-qvleb8p5pqjmg7e06358r563v7di88c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsv11xZ3arwjidZc4czPEeF0X-drBgBk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473807984073-qvleb8p5pqjmg7e06358r563v7di88c0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473807984073-ia9r08goq0v2mdktmvuk0phg5nqlnbv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tallsolutions.biomag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

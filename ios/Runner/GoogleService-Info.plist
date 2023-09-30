@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>473807984073-ia9r08goq0v2mdktmvuk0phg5nqlnbv4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.473807984073-ia9r08goq0v2mdktmvuk0phg5nqlnbv4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>473807984073-rfkrq2344716fvjtu7i2brffds75rv45.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIDM4Ml8Z1fnFmFAQu-qnIDGtjrQFweGs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>473807984073</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tallsolutions.biomag</string>
+	<key>PROJECT_ID</key>
+	<string>biomag-e0b04</string>
+	<key>STORAGE_BUCKET</key>
+	<string>biomag-e0b04.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:473807984073:ios:7eeeec5a2dc15f564fc418</string>
+</dict>
+</plist>
